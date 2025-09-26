@@ -34,7 +34,7 @@ Berikut adalah beberapa wawasan utama yang ditemukan dari analisis ini:
 
 3. Korelasi Diskon & Rating Lemah: Tidak ditemukan adanya korelasi yang signifikan antara besaran persentase diskon dengan rating yang diberikan pelanggan (skor korelasi ~ -0.1). Hal ini menunjukkan bahwa diskon besar tidak secara langsung menjamin rating yang lebih tinggi atau lebih rendah.
 
-4. Popularitas Produk: Berdasarkan jumlah rating, produk 'Sounce Bluetooth Wireless...' ' adalah yang paling populer di kalangan pelanggan dalam dataset ini.
+4. Popularitas Produk: Berdasarkan jumlah rating, produk 'Sounce Bluetooth Wireless...' adalah yang paling populer di kalangan pelanggan dalam dataset ini.
 
 💡 Kesimpulan
 Analisis ini berhasil mengidentifikasi karakteristik utama dari dataset penjualan Amazon. Temuan menunjukkan bahwa dataset ini didominasi oleh produk-produk berkualitas tinggi (berdasarkan rating) dan kategori elektronik. Untuk analisis selanjutnya, bisa dilakukan penggalian lebih dalam pada data teks (seperti review_content) untuk melakukan analisis sentimen dan menemukan alasan di balik rating yang diberikan pelanggan.
