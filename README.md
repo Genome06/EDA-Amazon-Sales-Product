@@ -6,7 +6,7 @@ Proyek ini bertujuan untuk melakukan Analisis Data Eksplorasi (EDA) pada dataset
 💾 Dataset
 Dataset yang digunakan adalah "Amazon Sales Dataset" yang tersedia di Kaggle. Dataset ini awalnya terdiri dari 1465 baris dan 16 kolom. Setelah proses pembersihan data, dataset final yang digunakan untuk analisis terdiri dari 1462 baris dan 14 kolom.
 
-Sumber: https://www.kaggle.com/datasets/karkavelrajaj/amazon-sales-dataset (<-- Ganti dengan link yang benar jika berbeda)
+Sumber: https://www.kaggle.com/datasets/karkavelrajaj/amazon-sales-dataset
 
 🛠️ Tools yang Digunakan
 1. Python
