@@ -21,7 +21,7 @@ Proyek ini mengikuti langkah-langkah standar dalam proses analisis data:
 
 1. Data Cleaning: Memperbaiki tipe data yang tidak sesuai (misalnya, harga dan rating yang terbaca sebagai teks), menangani nilai yang hilang (null values), menghilangkan data yang tidak valid, dan menghapus kolom-kolom yang tidak relevan (img_link, product_link).
 
-2. Exploratory Data Analysis (EDA): Menjawab pertanyaan-pertanyaan kunci yang telah dirumuskan melalui analisis univariat dan    bivariat.
+2. Exploratory Data Analysis (EDA): Menjawab pertanyaan-pertanyaan kunci yang telah dirumuskan melalui analisis univariat dan bivariat.
 
 Interpretasi & Kesimpulan: Menarik kesimpulan dari hasil analisis dan temuan visual.
 
